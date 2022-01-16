@@ -1,1 +1,1 @@
-# Antropov-InternetMagazin
+# InternetMagazin
